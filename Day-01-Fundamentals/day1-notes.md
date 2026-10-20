@@ -1,4 +1,3 @@
-# JavaScript Placement Preparation
 # DAY 01 — JavaScript Fundamentals
 
 **Goal for today:** I should understand how JavaScript works, how values behave, how to compare them, and how to make decisions using conditions. I should also be able to predict the output of basic JavaScript code without randomly guessing.
